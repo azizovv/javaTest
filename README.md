@@ -1,4 +1,4 @@
 # javaTest
-### This is my labtest. I used two classes :
-######Tune
-######Tunebook
+#  This is my labtest. I used two classes :
+  Tune
+Tunebook
