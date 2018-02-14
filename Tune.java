@@ -23,6 +23,12 @@ package ie.dit;
                 + "4, piper's Chair,.:" + this.title + ",, " 
                 + this.altTitle + ",, ";
     }
+	
+		interface player {
+		public void play();
+		}
+	
+	
   
  }
 		
